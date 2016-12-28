@@ -1,0 +1,1 @@
+Web application that uses mongo DB and Node JS to store and display landmarks information
